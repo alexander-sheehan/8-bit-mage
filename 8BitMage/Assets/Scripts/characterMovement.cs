@@ -48,7 +48,7 @@ public class characterMovement : MonoBehaviour {
 		// First attempt at getting a slide animation into the movement cycle
 		if (Mathf.Abs (move) > 0) {
 			anim.SetInteger ("movementState", 1);
-		} else if (rb2D.velocity.x > 0) {
+		} else if (rb2D.velocity.x > 8 && !Input.anyKeyDown) {
 			anim.SetInteger ("movementState", 2);
 		}
 		else {
