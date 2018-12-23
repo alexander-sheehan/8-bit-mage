@@ -5,7 +5,7 @@ using System;
 
 public class characterMovement : MonoBehaviour {
 
-	public float maxSpeed = 10f;
+	public float maxSpeed = 15f;
 	public bool facingRight = true;
 	private Rigidbody2D rb2D;
 	Animator anim;
@@ -32,6 +32,8 @@ public class characterMovement : MonoBehaviour {
 		 * play idle animation
 		 * 
 		 * How can this be improved?
+		 * 1: velocity change requirements to trigger slide animations (+ others?)
+		 * 		example: only slide when player is decreasing from a certain velocity
 		 */
 
 
@@ -42,11 +44,16 @@ public class characterMovement : MonoBehaviour {
 		// should stop and the idle animation should start
 		if (anim.GetFloat ("Speed") != 0 && rb2D.velocity.x == 0)
 			anim.StopPlayback ();
-		
-		// This is the parameter set in the animator that will flip animations from idle to moving\
-		anim.SetFloat("Speed", Mathf.Abs(move));
 			
-		if (moveAnimState
+		// First attempt at getting a slide animation into the movement cycle
+		if (Mathf.Abs (move) > 0) {
+			anim.SetInteger ("movementState", 1);
+		} else if (rb2D.velocity.x > 0) {
+			anim.SetInteger ("movementState", 2);
+		}
+		else {
+			anim.SetInteger ("movementState", 0);
+		}
 
 		// Set Character velocity
 		rb2D.velocity = new Vector2 (move * maxSpeed, rb2D.velocity.y);
