@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8BitMage", "Assembly-CSharp.csproj", "{6DC343E4-F2AD-B9D3-29FC-85B49B2A3E18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8BitMage", "Assembly-CSharp-Editor-firstpass.csproj", "{D46358A9-7224-3944-3E47-928BE2491E5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{6DC343E4-F2AD-B9D3-29FC-85B49B2A3E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DC343E4-F2AD-B9D3-29FC-85B49B2A3E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DC343E4-F2AD-B9D3-29FC-85B49B2A3E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46358A9-7224-3944-3E47-928BE2491E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46358A9-7224-3944-3E47-928BE2491E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46358A9-7224-3944-3E47-928BE2491E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46358A9-7224-3944-3E47-928BE2491E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
