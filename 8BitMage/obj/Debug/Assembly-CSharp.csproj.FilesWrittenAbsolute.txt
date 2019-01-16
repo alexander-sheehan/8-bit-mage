@@ -52,3 +52,11 @@
 /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
 /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
 /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+/Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/System.Threading.dll
+/Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/GitHub.Logging.dll
+/Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/sfw.net.dll
+/Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/ReadOnlyCollectionsInterfaces.dll
+/Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/GitHub.UnityShim.dll
+/Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/GitHub.Unity.dll
+/Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/GitHub.Api.dll
+/Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/AsyncBridge.Net35.dll

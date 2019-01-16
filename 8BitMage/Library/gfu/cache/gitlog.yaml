@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-01-08T00:48:14.088-05:00
+  lastUpdatedAtString: 2019-01-08T01:04:29.511-05:00
   initializedAtString: 2019-01-08T00:35:37.347-05:00
   log:
-  - commitID: 46cd5ca735b952261328f7e520c5300655e5d56a
+  - commitID: 9b677d097451907b95acc2a2c5bbc8c62f7f183c
     mergeA: 
     mergeB: 
     authorName: Alexander Sheehan
@@ -25,7 +25,7 @@ MonoBehaviour:
     summary: added wall jumping, tightened up controls
     description: added wall jumping, tightened up controls
     timeString: 2018-12-25T21:24:08.000-08:00
-    commitTimeString: 2019-01-08T00:38:48.000-05:00
+    commitTimeString: 2019-01-08T00:58:05.000-05:00
     changes:
     - path: 8BitMage/8BitMage.sln
       fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/8BitMage.sln

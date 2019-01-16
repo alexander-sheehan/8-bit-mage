@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6929943bc3cca4024af20f4bc7ad2285
+timeCreated: 1547317549
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BitPotionExt
+  fontNames:
+  - BitPotionExt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3db2c99cbb97d4361a4cca2d9888e019, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
