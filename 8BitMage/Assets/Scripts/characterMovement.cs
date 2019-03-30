@@ -8,7 +8,7 @@ public class characterMovement : MonoBehaviour {
 	private float maxSpeed = 15f;
 	private float maxSlideSpeed = 5f;
 	public bool facingRight = true;
-	private Rigidbody2D rb2D;
+	public Rigidbody2D rb2D;
 	private CircleCollider2D characterHitBox;
 	Animator anim;
 
@@ -28,6 +28,8 @@ public class characterMovement : MonoBehaviour {
 	public bool leftWallTouch = false;
 	public bool rightWallTouch = false;
 
+
+	// Honestly this thing is ugly- needs work
 	private void Awake()
 	{
 		// Get the RigidBody and Animator components of the Character so we can work with them
@@ -36,19 +38,31 @@ public class characterMovement : MonoBehaviour {
 		anim = GetComponent<Animator> ();
 	}
 		
-	void FixedUpdate () 
+	void FixedUpdate ()
 	{
 
 		// Initialized stuff for jumping and determining what is ground
-		grounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, whatIsGround);
+		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
 		anim.SetBool ("Ground", grounded);
 		anim.SetFloat ("vSpeed", rb2D.velocity.y);
 
 		// wallGrounded is the boolean to determine whether we're touching a wall
 		// Touching a wall should allow the player to rejump, but numbers should be tweaked so that you cannot ascend a wall by only jumping
 		// I have no idea why it's the radius * 4.5 for the box size... it works, just accept it
-		wallGrounded = Physics2D.OverlapBox(wallCheck.position, new Vector2((characterHitBox.radius * 4.5f), .1f), 0f, whatIsGround);
+		wallGrounded = Physics2D.OverlapBox (wallCheck.position, new Vector2 ((characterHitBox.radius * 4.5f), .1f), 0f, whatIsGround);
 		anim.SetBool ("wallGrounded", wallGrounded);
+
+		if (grounded) {
+			PlayerPrefs.SetString ("grounded", "true");
+		} else {
+			PlayerPrefs.SetString ("grounded", "false");
+		}
+
+		if (wallGrounded) {
+			PlayerPrefs.SetString ("wallGrounded", "true");
+		} else {
+			PlayerPrefs.SetString ("wallGrounded", "false");
+		}
 
 		// Left and right collider boxes that detect which wall the player is leaning against
 		// Once again.. no idea why I have to multiply the radius by 2.5... you can fix it if you want GL HF
@@ -138,7 +152,7 @@ public class characterMovement : MonoBehaviour {
 
 			//For wall jumping
 			if (facingRight) 
-
+				
 				// When on a wall, add force to both x and y axis'
 				rb2D.AddForce (new Vector2 (-wallJumpXForce, wallJumpYForce));
 			else 
@@ -158,9 +172,14 @@ public class characterMovement : MonoBehaviour {
 	// Simple function to flip the world (of the character sprite) on the x axis to reverse the sprite when player turns
 	void Flip ()
 	{
+		if (facingRight) {
+			PlayerPrefs.SetString ("facing", "right");
+		} else {
+			PlayerPrefs.SetString ("facing", "left");
+		}
 		facingRight = !facingRight;
-		Vector3 theScale = transform.localScale; 
-		theScale.x *= -1;
-		transform.localScale = theScale;
+
+		transform.Rotate (0, 180, 0);
+
 	}
 }

@@ -56,7 +56,9 @@
      <Compile Include="Assets\Scripts\buttonController.cs" />
      <Compile Include="Assets\Scripts\cameraController.cs" />
      <Compile Include="Assets\Scripts\characterMovement.cs" />
+     <Compile Include="Assets\Scripts\characterSpellController.cs" />
      <Compile Include="Assets\Scripts\skeleSpellController.cs" />
+     <Compile Include="Assets\Scripts\spellController.cs" />
      <None Include="Assets\Sprites\NPC&apos;s and stuff\BitPotion Full Extended\BitPotionExt_Black.fnt" />
      <None Include="Assets\Sprites\NPC&apos;s and stuff\BitPotion Full\BitPotion.fnt" />
      <None Include="Assets\Sprites\NPC&apos;s and stuff\BitPotion Full Extended\BitPotion.fnt" />

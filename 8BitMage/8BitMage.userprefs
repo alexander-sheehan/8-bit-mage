@@ -2,7 +2,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/cameraController.cs">
     <Files>
-      <File FileName="Assets/Scripts/cameraController.cs" Line="24" Column="83" />
+      <File FileName="Assets/Scripts/cameraController.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/characterMovement.cs" Line="35" Column="23" />
+      <File FileName="Assets/Scripts/characterSpellController.cs" Line="67" Column="34" />
+      <File FileName="Assets/Scripts/spellController.cs" Line="31" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
