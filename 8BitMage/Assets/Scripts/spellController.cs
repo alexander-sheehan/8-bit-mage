@@ -12,7 +12,6 @@ public class spellController : MonoBehaviour {
 	void Start () {
 		// TODO: 
 		// Add different spells
-		// lol
 
 		// Place holder spell projectile ignores the player
 		// NOTE: some spells won't have this, we want a large
@@ -36,12 +35,11 @@ public class spellController : MonoBehaviour {
 		}
 		velocity.x = (PlayerPrefs.GetString ("wallGrounded") == "true") ? (velocity.x *= -1) : velocity.x;
 		rb.velocity = velocity;
-
 	}
 
 	// hit info can give cool stuff based on what the spell collides with
 	void OnTriggerEnter2D(Collider2D hitInfo){
-//		Debug.Log(hitInfo.name);
+		//Debug.Log(hitInfo.name);
 		Destroy (gameObject);
 	}
 }

@@ -46,7 +46,7 @@ public class characterSpellController : MonoBehaviour {
 	// Spell casting method
 	// Basically this shit just instantiates the appropriate spell prefab
 	void Cast(string spell){
-		Transform firePoint = transform.GetChild (2);
+		Transform firePoint = GameObject.FindGameObjectWithTag ("firePoint").transform;
 
 		// If player is against a wall, we should fire the spell
 		// in the opposite direction
@@ -59,6 +59,7 @@ public class characterSpellController : MonoBehaviour {
 
 			// Reset the fire point position so that everything's happy 
 			firePoint.localPosition = localPosition;
+		// Otherwise just fire the thing
 		} else {
 			Instantiate (Resources.Load ("Spells/" + spell), firePoint.position, firePoint.rotation);
 		}

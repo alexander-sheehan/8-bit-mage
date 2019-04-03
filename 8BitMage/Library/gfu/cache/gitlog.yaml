@@ -12,9 +12,1439 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-03-30T10:51:46.599-07:00
+  lastUpdatedAtString: 2019-03-30T11:10:47.064-07:00
   initializedAtString: 2019-03-30T10:51:46.599-07:00
   log:
+  - commitID: 293c482644431dd8084be2178dead311fe3019ce
+    mergeA: 
+    mergeB: 
+    authorName: Alexander Sheehan
+    authorEmail: ajsheehan618@gmail.com
+    commitEmail: ajsheehan618@gmail.com
+    commitName: Alexander Sheehan
+    summary: hello :)
+    description: hello :)
+    timeString: 2019-03-30T11:07:39.000-07:00
+    commitTimeString: 2019-03-30T11:07:39.000-07:00
+    changes:
+    - path: 8BitMage/8BitMage.userprefs
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/8BitMage.userprefs
+      projectPath: 8BitMage.userprefs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Assembly-CSharp.csproj
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs.meta
+      projectPath: Assets/Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Character.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Character.prefab
+      projectPath: Assets/Prefabs/Character.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Character.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Character.prefab.meta
+      projectPath: Assets/Prefabs/Character.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources.meta
+      projectPath: Assets/Prefabs/Resources.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells.meta
+      projectPath: Assets/Prefabs/Resources/Spells.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/air_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/air_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_earth_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_earth_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/air_earth_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_earth_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_earth_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/air_earth_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_electricity_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_electricity_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/air_electricity_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_electricity_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_electricity_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/air_electricity_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_fire_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_fire_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/air_fire_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_fire_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_fire_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/air_fire_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_water_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_water_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/air_water_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/air_water_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/air_water_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/air_water_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/earth_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/earth_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/earth_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/earth_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/earth_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/earth_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/earth_electricity_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/earth_electricity_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/earth_electricity_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/earth_electricity_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/earth_electricity_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/earth_electricity_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/earth_fire_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/earth_fire_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/earth_fire_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/earth_fire_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/earth_fire_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/earth_fire_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/electricity_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/electricity_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/electricity_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/electricity_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/electricity_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/electricity_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/electricity_fire_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/electricity_fire_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/electricity_fire_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/electricity_fire_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/electricity_fire_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/electricity_fire_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/fire_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/fire_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/fire_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/fire_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/fire_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/fire_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/water_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/water_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/water_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/water_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/water_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/water_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/water_earth_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/water_earth_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/water_earth_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/water_earth_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/water_earth_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/water_earth_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/water_electricity_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/water_electricity_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/water_electricity_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/water_electricity_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/water_electricity_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/water_electricity_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/water_fire_.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/water_fire_.prefab
+      projectPath: Assets/Prefabs/Resources/Spells/water_fire_.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/Resources/Spells/water_fire_.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/Resources/Spells/water_fire_.prefab.meta
+      projectPath: Assets/Prefabs/Resources/Spells/water_fire_.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/changeIcon.prefab
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/changeIcon.prefab
+      projectPath: Assets/Prefabs/changeIcon.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Prefabs/changeIcon.prefab.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Prefabs/changeIcon.prefab.meta
+      projectPath: Assets/Prefabs/changeIcon.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Scenes/play_scene.unity
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scenes/play_scene.unity
+      projectPath: Assets/Scenes/play_scene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/New Animation.anim
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/New
+        Animation.anim
+      projectPath: Assets/Scripts/New Animation.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/New Animation.anim.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/New
+        Animation.anim.meta
+      projectPath: Assets/Scripts/New Animation.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/buttonController.cs
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/buttonController.cs
+      projectPath: Assets/Scripts/buttonController.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/cameraController.cs
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/cameraController.cs
+      projectPath: Assets/Scripts/cameraController.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/characterMovement.cs
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/characterMovement.cs
+      projectPath: Assets/Scripts/characterMovement.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/characterSpellController.cs
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/characterSpellController.cs
+      projectPath: Assets/Scripts/characterSpellController.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/characterSpellController.cs.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/characterSpellController.cs.meta
+      projectPath: Assets/Scripts/characterSpellController.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/spell.controller
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/spell.controller
+      projectPath: Assets/Scripts/spell.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/spell.controller.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/spell.controller.meta
+      projectPath: Assets/Scripts/spell.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/spellController.cs
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/spellController.cs
+      projectPath: Assets/Scripts/spellController.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Scripts/spellController.cs.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Scripts/spellController.cs.meta
+      projectPath: Assets/Scripts/spellController.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Sprites/touchable_background/denzi_sidescroller/sidescroller/16x16_scifi_Denzi100214-1.PNG.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Sprites/touchable_background/denzi_sidescroller/sidescroller/16x16_scifi_Denzi100214-1.PNG.meta
+      projectPath: Assets/Sprites/touchable_background/denzi_sidescroller/sidescroller/16x16_scifi_Denzi100214-1.PNG.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Assets/Sprites/touchable_background/denzi_sidescroller/sidescroller/testSpell.anim
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Sprites/touchable_background/denzi_sidescroller/sidescroller/testSpell.anim
+      projectPath: Assets/Sprites/touchable_background/denzi_sidescroller/sidescroller/testSpell.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Assets/Sprites/touchable_background/denzi_sidescroller/sidescroller/testSpell.anim.meta
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Assets/Sprites/touchable_background/denzi_sidescroller/sidescroller/testSpell.anim.meta
+      projectPath: Assets/Sprites/touchable_background/denzi_sidescroller/sidescroller/testSpell.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/CurrentLayout.dwlt
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/CurrentMaximizeLayout.dwlt
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/CurrentMaximizeLayout.dwlt
+      projectPath: Library/CurrentMaximizeLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/EditorInstance.json
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/EditorUserBuildSettings.asset
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/GridBrush/UnityEditor.GridBrush.asset
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/GridBrush/UnityEditor.GridBrush.asset
+      projectPath: Library/GridBrush/UnityEditor.GridBrush.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/InspectorExpandedItems.asset
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/ProjectSettings.asset
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/ProjectSettings.asset
+      projectPath: Library/ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/assetDatabase3
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/expandedItems
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/expandedItems
+      projectPath: Library/expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/gfu/cache/branches.yaml
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/gfu/cache/gituser.yaml
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/00/00000000000000002000000000000000
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/00/00000000000000002000000000000000
+      projectPath: Library/metadata/00/00000000000000002000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/00/00000000000000003000000000000000
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/00/00000000000000003000000000000000
+      projectPath: Library/metadata/00/00000000000000003000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/00/00000000000000009000000000000000
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/00/00000000000000009000000000000000
+      projectPath: Library/metadata/00/00000000000000009000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/06/064227f8d874941b6ba9d9e5df559466
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/06/064227f8d874941b6ba9d9e5df559466
+      projectPath: Library/metadata/06/064227f8d874941b6ba9d9e5df559466
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/06/064227f8d874941b6ba9d9e5df559466.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/06/064227f8d874941b6ba9d9e5df559466.info
+      projectPath: Library/metadata/06/064227f8d874941b6ba9d9e5df559466.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/0a/0a1a8da314b6343a49382bb888c52d1c
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/0a/0a1a8da314b6343a49382bb888c52d1c
+      projectPath: Library/metadata/0a/0a1a8da314b6343a49382bb888c52d1c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/0a/0a1a8da314b6343a49382bb888c52d1c.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/0a/0a1a8da314b6343a49382bb888c52d1c.info
+      projectPath: Library/metadata/0a/0a1a8da314b6343a49382bb888c52d1c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/0c/0cc5d8d1fcc9c40dca09864b2b674dcf
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/0c/0cc5d8d1fcc9c40dca09864b2b674dcf
+      projectPath: Library/metadata/0c/0cc5d8d1fcc9c40dca09864b2b674dcf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/0c/0cc5d8d1fcc9c40dca09864b2b674dcf.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/0c/0cc5d8d1fcc9c40dca09864b2b674dcf.info
+      projectPath: Library/metadata/0c/0cc5d8d1fcc9c40dca09864b2b674dcf.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/18/18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/18/18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      projectPath: Library/metadata/18/18b4dbf8a0b54ea4adf46fb7f4d71dd0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/21/218c290ca279a4e6a86d566d31ae3958
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/21/218c290ca279a4e6a86d566d31ae3958
+      projectPath: Library/metadata/21/218c290ca279a4e6a86d566d31ae3958
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/21/218c290ca279a4e6a86d566d31ae3958.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/21/218c290ca279a4e6a86d566d31ae3958.info
+      projectPath: Library/metadata/21/218c290ca279a4e6a86d566d31ae3958.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/24/2403d1f95ea54028853403e595bc9274
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/24/2403d1f95ea54028853403e595bc9274
+      projectPath: Library/metadata/24/2403d1f95ea54028853403e595bc9274
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/25/25ac9f65f34824180bc98fb45229a170
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/25/25ac9f65f34824180bc98fb45229a170
+      projectPath: Library/metadata/25/25ac9f65f34824180bc98fb45229a170
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/25/25ac9f65f34824180bc98fb45229a170.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/25/25ac9f65f34824180bc98fb45229a170.info
+      projectPath: Library/metadata/25/25ac9f65f34824180bc98fb45229a170.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/26/26c9745e4f18d40edb9c3cd54b4b039f
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/26/26c9745e4f18d40edb9c3cd54b4b039f
+      projectPath: Library/metadata/26/26c9745e4f18d40edb9c3cd54b4b039f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/26/26c9745e4f18d40edb9c3cd54b4b039f.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/26/26c9745e4f18d40edb9c3cd54b4b039f.info
+      projectPath: Library/metadata/26/26c9745e4f18d40edb9c3cd54b4b039f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/2c/2cc0f064e67da4a0ea23a631253e3b12
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/2c/2cc0f064e67da4a0ea23a631253e3b12
+      projectPath: Library/metadata/2c/2cc0f064e67da4a0ea23a631253e3b12
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/2c/2cc0f064e67da4a0ea23a631253e3b12.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/2c/2cc0f064e67da4a0ea23a631253e3b12.info
+      projectPath: Library/metadata/2c/2cc0f064e67da4a0ea23a631253e3b12.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/32/320c2294798354d048704858fe7c1c91
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/32/320c2294798354d048704858fe7c1c91
+      projectPath: Library/metadata/32/320c2294798354d048704858fe7c1c91
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/32/320c2294798354d048704858fe7c1c91.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/32/320c2294798354d048704858fe7c1c91.info
+      projectPath: Library/metadata/32/320c2294798354d048704858fe7c1c91.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/32/32434a43008ef4bf4bd22f68c8adfafa
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/32/32434a43008ef4bf4bd22f68c8adfafa
+      projectPath: Library/metadata/32/32434a43008ef4bf4bd22f68c8adfafa
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/32/32434a43008ef4bf4bd22f68c8adfafa.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/32/32434a43008ef4bf4bd22f68c8adfafa.info
+      projectPath: Library/metadata/32/32434a43008ef4bf4bd22f68c8adfafa.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/32/329f21becb6984a9cb3072309d9e4c3f
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/32/329f21becb6984a9cb3072309d9e4c3f
+      projectPath: Library/metadata/32/329f21becb6984a9cb3072309d9e4c3f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/32/329f21becb6984a9cb3072309d9e4c3f.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/32/329f21becb6984a9cb3072309d9e4c3f.info
+      projectPath: Library/metadata/32/329f21becb6984a9cb3072309d9e4c3f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/37/3799212ae556f41e291dc40ec6d6063d
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/37/3799212ae556f41e291dc40ec6d6063d
+      projectPath: Library/metadata/37/3799212ae556f41e291dc40ec6d6063d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/3b/3b9c1dfcf4a504a22a9c23618fc6821f
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/3b/3b9c1dfcf4a504a22a9c23618fc6821f
+      projectPath: Library/metadata/3b/3b9c1dfcf4a504a22a9c23618fc6821f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/3b/3b9c1dfcf4a504a22a9c23618fc6821f.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/3b/3b9c1dfcf4a504a22a9c23618fc6821f.info
+      projectPath: Library/metadata/3b/3b9c1dfcf4a504a22a9c23618fc6821f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/40/4034ce9c7f58f42c3b3fa2772d1615c2
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/40/4034ce9c7f58f42c3b3fa2772d1615c2
+      projectPath: Library/metadata/40/4034ce9c7f58f42c3b3fa2772d1615c2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/40/4034ce9c7f58f42c3b3fa2772d1615c2.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/40/4034ce9c7f58f42c3b3fa2772d1615c2.info
+      projectPath: Library/metadata/40/4034ce9c7f58f42c3b3fa2772d1615c2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/46/4618f5070606e4c4998d3817031a9481
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/46/4618f5070606e4c4998d3817031a9481
+      projectPath: Library/metadata/46/4618f5070606e4c4998d3817031a9481
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/46/4618f5070606e4c4998d3817031a9481.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/46/4618f5070606e4c4998d3817031a9481.info
+      projectPath: Library/metadata/46/4618f5070606e4c4998d3817031a9481.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/51/51288a4fc4384861a5b1f9dd49b3da26
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/51/51288a4fc4384861a5b1f9dd49b3da26
+      projectPath: Library/metadata/51/51288a4fc4384861a5b1f9dd49b3da26
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/5b/5bd17b577071b4abdab67125a31e6ebd
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/5b/5bd17b577071b4abdab67125a31e6ebd
+      projectPath: Library/metadata/5b/5bd17b577071b4abdab67125a31e6ebd
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/69/69fae92905db9468d9bb2d4058e91926
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/69/69fae92905db9468d9bb2d4058e91926
+      projectPath: Library/metadata/69/69fae92905db9468d9bb2d4058e91926
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/69/69fae92905db9468d9bb2d4058e91926.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/69/69fae92905db9468d9bb2d4058e91926.info
+      projectPath: Library/metadata/69/69fae92905db9468d9bb2d4058e91926.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/82/82285fbcea4b94a36bf372676618633c
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/82/82285fbcea4b94a36bf372676618633c
+      projectPath: Library/metadata/82/82285fbcea4b94a36bf372676618633c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/82/82285fbcea4b94a36bf372676618633c.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/82/82285fbcea4b94a36bf372676618633c.info
+      projectPath: Library/metadata/82/82285fbcea4b94a36bf372676618633c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/92/927072f4085b24bc0ae4313f29a0225f
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/92/927072f4085b24bc0ae4313f29a0225f
+      projectPath: Library/metadata/92/927072f4085b24bc0ae4313f29a0225f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/92/927072f4085b24bc0ae4313f29a0225f.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/92/927072f4085b24bc0ae4313f29a0225f.info
+      projectPath: Library/metadata/92/927072f4085b24bc0ae4313f29a0225f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/92/92710c10e10f04aa5b48e2d79b57ec8a
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/92/92710c10e10f04aa5b48e2d79b57ec8a
+      projectPath: Library/metadata/92/92710c10e10f04aa5b48e2d79b57ec8a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/92/92710c10e10f04aa5b48e2d79b57ec8a.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/92/92710c10e10f04aa5b48e2d79b57ec8a.info
+      projectPath: Library/metadata/92/92710c10e10f04aa5b48e2d79b57ec8a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/a9/a91afe253606b4563b277155ff38ff0b
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/a9/a91afe253606b4563b277155ff38ff0b
+      projectPath: Library/metadata/a9/a91afe253606b4563b277155ff38ff0b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/a9/a91afe253606b4563b277155ff38ff0b.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/a9/a91afe253606b4563b277155ff38ff0b.info
+      projectPath: Library/metadata/a9/a91afe253606b4563b277155ff38ff0b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/bb/bb6b4101ad2c42ec99f064a70c354e3c
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/bb/bb6b4101ad2c42ec99f064a70c354e3c
+      projectPath: Library/metadata/bb/bb6b4101ad2c42ec99f064a70c354e3c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/be/bee946194ffe1423d97bdf12d0dd4483
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/be/bee946194ffe1423d97bdf12d0dd4483
+      projectPath: Library/metadata/be/bee946194ffe1423d97bdf12d0dd4483
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/be/bee946194ffe1423d97bdf12d0dd4483.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/be/bee946194ffe1423d97bdf12d0dd4483.info
+      projectPath: Library/metadata/be/bee946194ffe1423d97bdf12d0dd4483.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/c0/c03d3b63aab1e4a529be9e67f32a6617
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/c0/c03d3b63aab1e4a529be9e67f32a6617
+      projectPath: Library/metadata/c0/c03d3b63aab1e4a529be9e67f32a6617
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/c0/c03d3b63aab1e4a529be9e67f32a6617.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/c0/c03d3b63aab1e4a529be9e67f32a6617.info
+      projectPath: Library/metadata/c0/c03d3b63aab1e4a529be9e67f32a6617.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/c4/c44c3c4139f9e4fc8b7aaf62b8d087c6
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/c4/c44c3c4139f9e4fc8b7aaf62b8d087c6
+      projectPath: Library/metadata/c4/c44c3c4139f9e4fc8b7aaf62b8d087c6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/c4/c44c3c4139f9e4fc8b7aaf62b8d087c6.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/c4/c44c3c4139f9e4fc8b7aaf62b8d087c6.info
+      projectPath: Library/metadata/c4/c44c3c4139f9e4fc8b7aaf62b8d087c6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/cf/cff31c442e88e42bd93a515031ccf78d
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/cf/cff31c442e88e42bd93a515031ccf78d
+      projectPath: Library/metadata/cf/cff31c442e88e42bd93a515031ccf78d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/cf/cff31c442e88e42bd93a515031ccf78d.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/cf/cff31c442e88e42bd93a515031ccf78d.info
+      projectPath: Library/metadata/cf/cff31c442e88e42bd93a515031ccf78d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/d8/d83a6e072e06d4c55a9733807ea94017
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/d8/d83a6e072e06d4c55a9733807ea94017
+      projectPath: Library/metadata/d8/d83a6e072e06d4c55a9733807ea94017
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/d8/d83a6e072e06d4c55a9733807ea94017.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/d8/d83a6e072e06d4c55a9733807ea94017.info
+      projectPath: Library/metadata/d8/d83a6e072e06d4c55a9733807ea94017.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/metadata/d8/d8c6f0ee7ea864c21aee564c80bf77d7
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/d8/d8c6f0ee7ea864c21aee564c80bf77d7
+      projectPath: Library/metadata/d8/d8c6f0ee7ea864c21aee564c80bf77d7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/d8/d8c6f0ee7ea864c21aee564c80bf77d7.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/d8/d8c6f0ee7ea864c21aee564c80bf77d7.info
+      projectPath: Library/metadata/d8/d8c6f0ee7ea864c21aee564c80bf77d7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/e2/e24f6f0dc70ae40babf4c02b42abbb7f
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/e2/e24f6f0dc70ae40babf4c02b42abbb7f
+      projectPath: Library/metadata/e2/e24f6f0dc70ae40babf4c02b42abbb7f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/e2/e24f6f0dc70ae40babf4c02b42abbb7f.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/e2/e24f6f0dc70ae40babf4c02b42abbb7f.info
+      projectPath: Library/metadata/e2/e24f6f0dc70ae40babf4c02b42abbb7f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/e6/e66949cc4c6cf47cbb4d68b8eaf997b0
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/e6/e66949cc4c6cf47cbb4d68b8eaf997b0
+      projectPath: Library/metadata/e6/e66949cc4c6cf47cbb4d68b8eaf997b0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/e6/e66949cc4c6cf47cbb4d68b8eaf997b0.info
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/e6/e66949cc4c6cf47cbb4d68b8eaf997b0.info
+      projectPath: Library/metadata/e6/e66949cc4c6cf47cbb4d68b8eaf997b0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 8BitMage/Library/metadata/f6/f6ad2f3985c3e45d1b56a59dabaf6f8c
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/metadata/f6/f6ad2f3985c3e45d1b56a59dabaf6f8c
+      projectPath: Library/metadata/f6/f6ad2f3985c3e45d1b56a59dabaf6f8c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/ProjectSettings/InputManager.asset
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/ProjectSettings/InputManager.asset
+      projectPath: ProjectSettings/InputManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/ProjectSettings/TagManager.asset
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-054574afcbd9e4a00a3c754422b35d4e
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-054574afcbd9e4a00a3c754422b35d4e
+      projectPath: Temp/UnityTempFile-054574afcbd9e4a00a3c754422b35d4e
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-06dd84f1ab39542ecbe3ed051d6db28c
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-06dd84f1ab39542ecbe3ed051d6db28c
+      projectPath: Temp/UnityTempFile-06dd84f1ab39542ecbe3ed051d6db28c
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-119d18c6db60f4e689b880ad52b38943
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-119d18c6db60f4e689b880ad52b38943
+      projectPath: Temp/UnityTempFile-119d18c6db60f4e689b880ad52b38943
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-1490ed06289e64e17bd88a1a0bc719fa
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-1490ed06289e64e17bd88a1a0bc719fa
+      projectPath: Temp/UnityTempFile-1490ed06289e64e17bd88a1a0bc719fa
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-1a94d7ebc9f9b425d9d449fa9a7a7b9e
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-1a94d7ebc9f9b425d9d449fa9a7a7b9e
+      projectPath: Temp/UnityTempFile-1a94d7ebc9f9b425d9d449fa9a7a7b9e
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-1e8b18af608f049cfaf242112b06157d
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-1e8b18af608f049cfaf242112b06157d
+      projectPath: Temp/UnityTempFile-1e8b18af608f049cfaf242112b06157d
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-1f1c007008ec34805a53263b043666a0
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-1f1c007008ec34805a53263b043666a0
+      projectPath: Temp/UnityTempFile-1f1c007008ec34805a53263b043666a0
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-23092c90ebba64effbd067127efeff39
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-23092c90ebba64effbd067127efeff39
+      projectPath: Temp/UnityTempFile-23092c90ebba64effbd067127efeff39
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-33b7312386c08494c9d1db32fb0e3b1c
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-33b7312386c08494c9d1db32fb0e3b1c
+      projectPath: Temp/UnityTempFile-33b7312386c08494c9d1db32fb0e3b1c
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-496a1a5cd5dea4f199d8c8e8ede4b884
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-496a1a5cd5dea4f199d8c8e8ede4b884
+      projectPath: Temp/UnityTempFile-496a1a5cd5dea4f199d8c8e8ede4b884
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-4c11c45fd4b25482698443096d60baad
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-4c11c45fd4b25482698443096d60baad
+      projectPath: Temp/UnityTempFile-4c11c45fd4b25482698443096d60baad
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-5228f8d42d7d642418d0ae18d80530b1
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-5228f8d42d7d642418d0ae18d80530b1
+      projectPath: Temp/UnityTempFile-5228f8d42d7d642418d0ae18d80530b1
+      originalPath: 8BitMage/Temp/UnityTempFile-898cb1f19f144418cb14861918c402b1
+      status: 6
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-561351365e289413f885beb05c5acca3
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-561351365e289413f885beb05c5acca3
+      projectPath: Temp/UnityTempFile-561351365e289413f885beb05c5acca3
+      originalPath: 8BitMage/Temp/UnityTempFile-a3d195447adda4b7894e0be6e97b56a9
+      status: 6
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-64bc882f6c97a4a40893cb0917fcb4d6
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-64bc882f6c97a4a40893cb0917fcb4d6
+      projectPath: Temp/UnityTempFile-64bc882f6c97a4a40893cb0917fcb4d6
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-69d600efce496439490e34e43224137d
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-69d600efce496439490e34e43224137d
+      projectPath: Temp/UnityTempFile-69d600efce496439490e34e43224137d
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-6ffc0cb006c714bc693d4fda0362a3d7
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-6ffc0cb006c714bc693d4fda0362a3d7
+      projectPath: Temp/UnityTempFile-6ffc0cb006c714bc693d4fda0362a3d7
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-729664454e4b54e5c93141013bda81d9
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-729664454e4b54e5c93141013bda81d9
+      projectPath: Temp/UnityTempFile-729664454e4b54e5c93141013bda81d9
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-7d6eb7b6c21374d028b84c6a5579a5e1
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-7d6eb7b6c21374d028b84c6a5579a5e1
+      projectPath: Temp/UnityTempFile-7d6eb7b6c21374d028b84c6a5579a5e1
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-8925fb92f51314b4da865d74e336db8b
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-8925fb92f51314b4da865d74e336db8b
+      projectPath: Temp/UnityTempFile-8925fb92f51314b4da865d74e336db8b
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-9052c354cde1a45a89a1e355072ad219
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-9052c354cde1a45a89a1e355072ad219
+      projectPath: Temp/UnityTempFile-9052c354cde1a45a89a1e355072ad219
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-9135c01f3a0ca4442a4e4fac44b58f84
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-9135c01f3a0ca4442a4e4fac44b58f84
+      projectPath: Temp/UnityTempFile-9135c01f3a0ca4442a4e4fac44b58f84
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-91453bed0592747e0b6ea2482aa677cd
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-91453bed0592747e0b6ea2482aa677cd
+      projectPath: Temp/UnityTempFile-91453bed0592747e0b6ea2482aa677cd
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-ae41fa57661474634b81350100e76824
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-ae41fa57661474634b81350100e76824
+      projectPath: Temp/UnityTempFile-ae41fa57661474634b81350100e76824
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-b259d75edccad44d593ef78e553a9d86
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-b259d75edccad44d593ef78e553a9d86
+      projectPath: Temp/UnityTempFile-b259d75edccad44d593ef78e553a9d86
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-ba98afeb83c4e47f18f24706df416555
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-ba98afeb83c4e47f18f24706df416555
+      projectPath: Temp/UnityTempFile-ba98afeb83c4e47f18f24706df416555
+      originalPath: 8BitMage/Temp/UnityTempFile-8e40096865b4145eab3d274f1aae26e2
+      status: 6
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-bc1628a36e9494980947493b638ecbc9
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-bc1628a36e9494980947493b638ecbc9
+      projectPath: Temp/UnityTempFile-bc1628a36e9494980947493b638ecbc9
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-bc56c59247476440ab4ba77914f0907a
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-bc56c59247476440ab4ba77914f0907a
+      projectPath: Temp/UnityTempFile-bc56c59247476440ab4ba77914f0907a
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-bc75d10954cd747c0acaca72bd5a6dfd
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-bc75d10954cd747c0acaca72bd5a6dfd
+      projectPath: Temp/UnityTempFile-bc75d10954cd747c0acaca72bd5a6dfd
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-c20be294e55e144b3ba10268c025ce22
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-c20be294e55e144b3ba10268c025ce22
+      projectPath: Temp/UnityTempFile-c20be294e55e144b3ba10268c025ce22
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-c847a5d9eb9b44b50a4d1965afff2579
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-c847a5d9eb9b44b50a4d1965afff2579
+      projectPath: Temp/UnityTempFile-c847a5d9eb9b44b50a4d1965afff2579
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-cb5e2ebb1a2244ddba707b80fd58d8ad
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-cb5e2ebb1a2244ddba707b80fd58d8ad
+      projectPath: Temp/UnityTempFile-cb5e2ebb1a2244ddba707b80fd58d8ad
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-ce8a6caeb7cf84009947d5fee0a56cd3
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-ce8a6caeb7cf84009947d5fee0a56cd3
+      projectPath: Temp/UnityTempFile-ce8a6caeb7cf84009947d5fee0a56cd3
+      originalPath: 8BitMage/Temp/UnityTempFile-fa1c34f1b21fd4f4299512ecf14bc867
+      status: 6
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-e7dbf23351e25460c85e0120c82ca58a
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-e7dbf23351e25460c85e0120c82ca58a
+      projectPath: Temp/UnityTempFile-e7dbf23351e25460c85e0120c82ca58a
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-e90f272e6d26444a2ad3ac86e976cc80
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-e90f272e6d26444a2ad3ac86e976cc80
+      projectPath: Temp/UnityTempFile-e90f272e6d26444a2ad3ac86e976cc80
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-f80ea08ce22124f38985a8e3221c1a8e
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-f80ea08ce22124f38985a8e3221c1a8e
+      projectPath: Temp/UnityTempFile-f80ea08ce22124f38985a8e3221c1a8e
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/UnityTempFile-f89344a1519db460887705f1cc366c58
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/UnityTempFile-f89344a1519db460887705f1cc366c58
+      projectPath: Temp/UnityTempFile-f89344a1519db460887705f1cc366c58
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/__Backupscenes/0.backup
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll.mdb
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll.mdb
+      projectPath: Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Assembly-CSharp.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Assembly-CSharp.dll
+      projectPath: Temp/bin/Debug/Assembly-CSharp.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+      projectPath: Temp/bin/Debug/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/AsyncBridge.Net35.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/AsyncBridge.Net35.dll
+      projectPath: Temp/bin/Debug/AsyncBridge.Net35.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/ExCSS.Unity.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/ExCSS.Unity.dll
+      projectPath: Temp/bin/Debug/ExCSS.Unity.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Facebook.Unity.Settings.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Facebook.Unity.Settings.dll
+      projectPath: Temp/bin/Debug/Facebook.Unity.Settings.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/GitHub.Api.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/GitHub.Api.dll
+      projectPath: Temp/bin/Debug/GitHub.Api.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/GitHub.Logging.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/GitHub.Logging.dll
+      projectPath: Temp/bin/Debug/GitHub.Logging.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/GitHub.Unity.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/GitHub.Unity.dll
+      projectPath: Temp/bin/Debug/GitHub.Unity.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/GitHub.UnityShim.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/GitHub.UnityShim.dll
+      projectPath: Temp/bin/Debug/GitHub.UnityShim.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/ReadOnlyCollectionsInterfaces.dll
+      projectPath: Temp/bin/Debug/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/System.Threading.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/System.Threading.dll
+      projectPath: Temp/bin/Debug/System.Threading.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+      projectPath: Temp/bin/Debug/Unity.Cecil.Mdb.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+      projectPath: Temp/bin/Debug/Unity.Cecil.Pdb.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Unity.Cecil.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Unity.Cecil.dll
+      projectPath: Temp/bin/Debug/Unity.Cecil.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Unity.CecilTools.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Unity.CecilTools.dll
+      projectPath: Temp/bin/Debug/Unity.CecilTools.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Unity.DataContract.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Unity.DataContract.dll
+      projectPath: Temp/bin/Debug/Unity.DataContract.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+      projectPath: Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Unity.SerializationLogic.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Unity.SerializationLogic.dll
+      projectPath: Temp/bin/Debug/Unity.SerializationLogic.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Unity.UNetWeaver.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Unity.UNetWeaver.dll
+      projectPath: Temp/bin/Debug/Unity.UNetWeaver.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+      projectPath: Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.Advertisements.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.Advertisements.dll
+      projectPath: Temp/bin/Debug/UnityEditor.Advertisements.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.Analytics.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.Analytics.dll
+      projectPath: Temp/bin/Debug/UnityEditor.Analytics.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.Android.Extensions.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.Android.Extensions.dll
+      projectPath: Temp/bin/Debug/UnityEditor.Android.Extensions.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.Facebook.Extensions.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.Facebook.Extensions.dll
+      projectPath: Temp/bin/Debug/UnityEditor.Facebook.Extensions.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+      projectPath: Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.Graphs.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.Graphs.dll
+      projectPath: Temp/bin/Debug/UnityEditor.Graphs.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.HoloLens.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.HoloLens.dll
+      projectPath: Temp/bin/Debug/UnityEditor.HoloLens.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.Networking.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.Networking.dll
+      projectPath: Temp/bin/Debug/UnityEditor.Networking.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+      projectPath: Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.Purchasing.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.Purchasing.dll
+      projectPath: Temp/bin/Debug/UnityEditor.Purchasing.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+      projectPath: Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.TestRunner.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.TestRunner.dll
+      projectPath: Temp/bin/Debug/UnityEditor.TestRunner.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.Timeline.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.Timeline.dll
+      projectPath: Temp/bin/Debug/UnityEditor.Timeline.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+      projectPath: Temp/bin/Debug/UnityEditor.TreeEditor.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.UI.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.UI.dll
+      projectPath: Temp/bin/Debug/UnityEditor.UI.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+      projectPath: Temp/bin/Debug/UnityEditor.UIAutomation.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.VR.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.VR.dll
+      projectPath: Temp/bin/Debug/UnityEditor.VR.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll
+      projectPath: Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+      projectPath: Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.dll
+      projectPath: Temp/bin/Debug/UnityEditor.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+      projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+      projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+      projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+      projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+      projectPath: Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.Advertisements.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.Advertisements.dll
+      projectPath: Temp/bin/Debug/UnityEngine.Advertisements.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.Analytics.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.Analytics.dll
+      projectPath: Temp/bin/Debug/UnityEngine.Analytics.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+      projectPath: Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.HoloLens.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.HoloLens.dll
+      projectPath: Temp/bin/Debug/UnityEngine.HoloLens.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.Networking.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.Networking.dll
+      projectPath: Temp/bin/Debug/UnityEngine.Networking.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.Purchasing.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.Purchasing.dll
+      projectPath: Temp/bin/Debug/UnityEngine.Purchasing.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+      projectPath: Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+      projectPath: Temp/bin/Debug/UnityEngine.StandardEvents.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.TestRunner.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.TestRunner.dll
+      projectPath: Temp/bin/Debug/UnityEngine.TestRunner.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.Timeline.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.Timeline.dll
+      projectPath: Temp/bin/Debug/UnityEngine.Timeline.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.UI.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.UI.dll
+      projectPath: Temp/bin/Debug/UnityEngine.UI.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+      projectPath: Temp/bin/Debug/UnityEngine.UIAutomation.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/UnityEngine.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/UnityEngine.dll
+      projectPath: Temp/bin/Debug/UnityEngine.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/nunit.framework.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/nunit.framework.dll
+      projectPath: Temp/bin/Debug/nunit.framework.dll
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: 8BitMage/Temp/bin/Debug/sfw.net.dll
+      fullPath: /Users/alexandersheehan/Desktop/8_bit_mage/8-bit-mage/8BitMage/Temp/bin/Debug/sfw.net.dll
+      projectPath: Temp/bin/Debug/sfw.net.dll
+      originalPath: 
+      status: 5
+      staged: 0
   - commitID: 61a9f61a30c69592d403270004230838f78bee52
     mergeA: 
     mergeB: 

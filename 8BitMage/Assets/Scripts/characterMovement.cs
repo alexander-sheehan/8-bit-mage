@@ -41,6 +41,8 @@ public class characterMovement : MonoBehaviour {
 	void FixedUpdate ()
 	{
 
+		//Physics2D.OverlapBox(
+
 		// Initialized stuff for jumping and determining what is ground
 		grounded = Physics2D.OverlapCircle (groundCheck.position, groundRadius, whatIsGround);
 		anim.SetBool ("Ground", grounded);
@@ -178,8 +180,6 @@ public class characterMovement : MonoBehaviour {
 			PlayerPrefs.SetString ("facing", "left");
 		}
 		facingRight = !facingRight;
-
 		transform.Rotate (0, 180, 0);
-
 	}
 }

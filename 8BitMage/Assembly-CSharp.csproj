@@ -51,14 +51,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\fireSpellController.cs" />
      <Compile Include="Assets\PennyPixel\Scripts\PhysicsObject.cs" />
      <Compile Include="Assets\PennyPixel\Scripts\PlayerPlatformerController.cs" />
+     <Compile Include="Assets\Scripts\airSpellController.cs" />
      <Compile Include="Assets\Scripts\buttonController.cs" />
      <Compile Include="Assets\Scripts\cameraController.cs" />
      <Compile Include="Assets\Scripts\characterMovement.cs" />
      <Compile Include="Assets\Scripts\characterSpellController.cs" />
      <Compile Include="Assets\Scripts\skeleSpellController.cs" />
      <Compile Include="Assets\Scripts\spellController.cs" />
+     <Compile Include="Assets\Sprites\touchable_background\denzi_sidescroller\sidescroller\NewBehaviourScript.cs" />
      <None Include="Assets\Sprites\NPC&apos;s and stuff\BitPotion Full Extended\BitPotionExt_Black.fnt" />
      <None Include="Assets\Sprites\NPC&apos;s and stuff\BitPotion Full\BitPotion.fnt" />
      <None Include="Assets\Sprites\NPC&apos;s and stuff\BitPotion Full Extended\BitPotion.fnt" />

@@ -23,10 +23,10 @@ GameObject:
   - component: {fileID: 212871044487575380}
   - component: {fileID: 50420232831001050}
   - component: {fileID: 58426523451047206}
-  - component: {fileID: 114249471617487384}
+  - component: {fileID: 114707270967003102}
   m_Layer: 8
   m_Name: fire_
-  m_TagString: Untagged
+  m_TagString: fireSpell
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -96,7 +96,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &114249471617487384
+--- !u!114 &114707270967003102
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -104,11 +104,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1207793769711150}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b9c1dfcf4a504a22a9c23618fc6821f, type: 3}
+  m_Script: {fileID: 11500000, guid: 812f0e381a285454bb13896e383876c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 50420232831001050}
-  character: {fileID: 1233520265436654, guid: 69fae92905db9468d9bb2d4058e91926, type: 2}
+  character: {fileID: 0}
 --- !u!212 &212871044487575380
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -143,13 +142,13 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: 21300006, guid: d83a6e072e06d4c55a9733807ea94017, type: 3}
-  m_Color: {r: 0, g: 0.66896534, b: 1, a: 1}
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0

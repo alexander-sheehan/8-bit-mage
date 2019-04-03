@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class cameraController : MonoBehaviour {
+public class cameraController : MonoBehaviour {	
 	int timeOffCenter = 0;
 	float maxCameraSpeed = .5f;
 	float cameraVelocity = .2f;
